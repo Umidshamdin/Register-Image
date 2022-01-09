@@ -1,0 +1,13 @@
+.register{
+    border-top: 3px solid green;
+    border-bottom: 3px solid green;
+    border-left: 3px solid green;
+    border-right: 3px solid green;
+    width: 200px;
+    height: 320px;
+    padding: 50px;
+    text-align: center;
+    margin-left: 700px;
+    margin-top: 200px;
+}
+
